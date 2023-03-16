@@ -1,0 +1,12 @@
+D:\Documents\Fanshawe\Software Design\Project 1\INFO3137-Project1 - Starting Point\DocumentFactory\obj\Debug\DocumentFactory.csproj.AssemblyReference.cache
+D:\Documents\Fanshawe\Software Design\Project 1\INFO3137-Project1 - Starting Point\DocumentFactory\obj\Debug\DocumentFactory.csproj.CoreCompileInputs.cache
+D:\Documents\Fanshawe\Software Design\Project 1\INFO3137-Project1 - Starting Point\DocumentFactory\bin\Debug\DocumentFactory.dll
+D:\Documents\Fanshawe\Software Design\Project 1\INFO3137-Project1 - Starting Point\DocumentFactory\bin\Debug\DocumentFactory.pdb
+D:\Documents\Fanshawe\Software Design\Project 1\INFO3137-Project1 - Starting Point\DocumentFactory\obj\Debug\DocumentFactory.dll
+D:\Documents\Fanshawe\Software Design\Project 1\INFO3137-Project1 - Starting Point\DocumentFactory\obj\Debug\DocumentFactory.pdb
+F:\Fanshawe\Summer 2022\Software Design\Project 1\CP Project 1\WebpageDocumentFactory\DocumentFactory\bin\Debug\DocumentFactory.dll
+F:\Fanshawe\Summer 2022\Software Design\Project 1\CP Project 1\WebpageDocumentFactory\DocumentFactory\bin\Debug\DocumentFactory.pdb
+F:\Fanshawe\Summer 2022\Software Design\Project 1\CP Project 1\WebpageDocumentFactory\DocumentFactory\obj\Debug\DocumentFactory.csproj.AssemblyReference.cache
+F:\Fanshawe\Summer 2022\Software Design\Project 1\CP Project 1\WebpageDocumentFactory\DocumentFactory\obj\Debug\DocumentFactory.csproj.CoreCompileInputs.cache
+F:\Fanshawe\Summer 2022\Software Design\Project 1\CP Project 1\WebpageDocumentFactory\DocumentFactory\obj\Debug\DocumentFactory.dll
+F:\Fanshawe\Summer 2022\Software Design\Project 1\CP Project 1\WebpageDocumentFactory\DocumentFactory\obj\Debug\DocumentFactory.pdb
